@@ -1,0 +1,13 @@
+(258,Info)
+(265,1)(268,.)(259,Name)(267,:)(270,Mary)
+quaternary:(:,Name,Mary,1)
+(265,2)(268,.)(260,Id)(267,:)(269,42010619951015002X)
+quaternary:(:,Id,42010619951015002X,2)
+(265,3)(268,.)(261,Unit)(267,:)(270,WHU)
+quaternary:(:,Unit,WHU,3)
+(265,4)(268,.)(262,Occupation)(267,:)(270,teacher)
+quaternary:(:,Occupation,teacher,4)
+(265,5)(268,.)(263,Phone)(267,:)IdNumber_ERROR at line 6: "1732635997"
+quaternary:(:,Phone,(null),5)
+Pass Parser
+You may miss some blanks.

@@ -1,0 +1,7 @@
+(258,Info)
+(265,1)(268,.)(259,Name)(267,:)(270,Mary)
+quaternary:(:,Name,Mary,1)
+(265,2)(268,.)(260,Id)(267,:)IdNumber_ERROR at line 3: "4201061995101500X"
+quaternary:(:,Id,(null),2)
+Pass Parser
+You may miss some blanks.
